@@ -1,3 +1,3 @@
 # my-notes-python
--pythonのメモ
--automate
+- pythonのメモ
+- automate
